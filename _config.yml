@@ -1,7 +1,7 @@
 # Site settings
 title: LuYu's Blog
 SEOTitle: 卢宇的博客 | LuYu's Blog
-header-img: https://avatars2.githubusercontent.com/u/19963981?s=460&v=4
+header-img: /img/IMG_2206.JPG
 email: luyu7250@163.com
 description: "学无止境。"
 keyword: "Android"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/l229084295/l229084295.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/IMG_2206.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
